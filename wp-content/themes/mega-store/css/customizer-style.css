@@ -1,0 +1,14 @@
+li#accordion-section-mega_store_companion_installer {
+    display: block !important;
+}
+
+.control-section-companion {
+    border-top: none;
+    border-bottom: 1px solid #ddd;
+    padding: 7px 14px 16px 14px;
+    text-align: right;
+}
+.control-section-companion p{
+	text-align:left;
+	margin-top:0;
+}

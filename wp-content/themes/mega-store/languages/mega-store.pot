@@ -1,0 +1,701 @@
+# Copyright (C) 2018 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mega Store 1.0.1\n"
+"Report-Msgid-Bugs-To: https://www.themefarmer.com \n"
+"POT-Creation-Date: 2018-03-15 12:50+0530\n"
+"PO-Revision-Date: 2018-03-15 12:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+msgid "ERROR"
+msgstr ""
+
+#: 404.php:19
+msgid "Page cannot be found"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"The Page you requested is not be found. This could be spelling error in the "
+"url."
+msgstr ""
+
+#: 404.php:21
+msgid "Go back to Home Page"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:22 functions.php:122 functions.php:125
+msgid "Footer Widget Area"
+msgstr ""
+
+#: footer.php:24
+msgid "footer widget area"
+msgstr ""
+
+#: footer.php:34 sidebar.php:27
+msgid "Calendar"
+msgstr ""
+
+#: footer.php:46
+msgid "Y"
+msgstr ""
+
+#: footer.php:46
+#, php-format
+msgid "Theme by %1$s"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:114 sidebar.php:21
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:133 functions.php:136
+msgid "WooCommerce Widget Area"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:108
+msgid "All Categories"
+msgstr ""
+
+#: header.php:126
+msgid "Menu"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-product.php:2
+msgid "Search For Item"
+msgstr ""
+
+#: searchform-product.php:2 searchform.php:4 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform-product.php:7
+msgid "All"
+msgstr ""
+
+#: searchform-product.php:17 sidebar.php:28
+msgid "Search"
+msgstr ""
+
+#: searchform.php:5 searchform.php:7
+msgid "Search "
+msgstr ""
+
+#: sidebar.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:61
+#: admin/inc/include-companion.php:41
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:62
+#: admin/inc/include-companion.php:42
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:63
+#: admin/inc/include-companion.php:43
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:73
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:74
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:87
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Mega Store ! To fully take advantage of our "
+"theme please make sure you visit our %1$s welcome page %2$s."
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:88
+msgid "Get started with Mega Store"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:101
+#: admin/tab-pages/theme-info.php:9
+msgid "Welcome to"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:159
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:164
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:170
+msgid "Useful Plugins"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:176
+msgid "Theme Information"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:181
+msgid "Free vs Pro"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:191
+#: admin/inc/include-companion.php:78
+msgid "Mega Store Companion"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:193
+msgid ""
+"It is highly recommended that you install the companion plugin to have "
+"access to the advance Frontpage sections and other theme features"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:202
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:204
+msgid "use WooCommerce for E-Commerce Shop. our theme support WooCommerce."
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:217
+msgid "Front page and blog page setup"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:218
+msgid ""
+"<ol><li>Go to WP Menu -> Pages -> All Pages -> create/edit \"Home\" page by "
+"Add New/Edit. Select Template <b>Home Page</b> from Template Dropdown below "
+"<b>Publish/Update Button</b> -> <b>Publish/Update Button</b>.</li> <li> "
+"create/edit a page to show blog posts. name it <b>Blog </b> or anything you "
+"like. no need to add content for blog page -> <b>Publish/Update Button</b> </"
+"li> <li> Go to WP Menu -> Setting -> Reading -> Set <b>Front page display</"
+"b> to <b>A Static Page</b> -> Select previously created pages <b>Home</b> "
+"for <b>Front Page</b> and <b>Blog</b> for <b>Post page</b>.</li> "
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:282
+#, php-format
+msgid "Install %s Now"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:284
+#: admin/inc/include-companion.php:79
+msgid "Install & Activate"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:301
+#, php-format
+msgid "Activate %s Now"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:303
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:306
+msgid "Active"
+msgstr ""
+
+#: admin/inc/include-companion.php:77
+msgid ""
+"Mega store Companion plugin is required to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:78
+msgid "Install Mega Store Companion Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:94
+msgid ""
+"You have installed Mega store Companion. Activate it to take advantage of "
+"this theme's features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:95
+msgid "Activate Mega store Companion now"
+msgstr ""
+
+#: admin/inc/include-companion.php:95
+msgid "Mega store Companion"
+msgstr ""
+
+#: admin/inc/include-companion.php:96
+msgid "Activate Now"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:6
+msgid "Pro"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:12
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:13
+msgid "Best suitable theme for online store"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:20
+msgid "Pricing Plans Section"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:21
+msgid "Home page pricing plans section to show your plans"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:31
+msgid "Get Mega Store Pro Now"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:3
+msgid "Recommended actions"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:4
+msgid ""
+"we have created list of steps to take so you get amazing expriance with "
+"theme."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:5
+msgid "Go to Recommended actions"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:8
+msgid "Read Theme Documentation"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:9
+msgid ""
+"Missing Something..? Please check our full documentation for detaild "
+"information about Mega Store"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:10
+msgid "Go to Documentation"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:13
+msgid "Customize Mega Store"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:14
+msgid "Use customizer to setup Mega Store"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:15
+msgid "Go to Customizer"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:14
+msgid "Theme Links"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:18
+msgid "Theme Demo"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:21
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:24
+msgid "Theme Page"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:27
+msgid "Rate this theme"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:31
+msgid "View Pro Version"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:33
+msgid "Customize"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Homepage Options"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Mega Store Settings"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Hero Options"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:40 inc/customizer.php:218
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Header Catalog Dispaly"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Hover Show"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Always Show"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Join Us"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Menu Button Text"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Menu Button Link"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Header Topbar"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Edit this in customizer "
+msgstr ""
+
+#: inc/customizer.php:90 inc/themefarmer-functions.php:118
+msgid "Message"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Contact Options"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Hero Image"
+msgstr ""
+
+#: inc/customizer.php:143 inc/customizer.php:159 inc/customizer.php:224
+#: inc/customizer.php:277
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer.php:153 inc/customizer.php:164
+msgid "Edit this in Customizer"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Sub Heading"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Edit Description in Customizer"
+msgstr ""
+
+#: inc/customizer.php:181 inc/customizer.php:235 inc/customizer.php:288
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Edit in Customizer"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Description Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:247 inc/customizer.php:299
+msgid "Product Count"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:264 inc/customizer.php:270
+msgid "Latest Products"
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Description Latest Product"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Theme Setup Info"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Home Page Setup"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid ""
+"1. Create or Edit page with name Home -> Select Template \"Home Page\" -> "
+"Publish. <br><br>\n"
+"    \t\t\t\t\t\t\t2. Go To Appearance -> Customize -> Static Front Page -> "
+"Front page displays set it to \"A static page\" -> for Front page select "
+"Home. <a class=\"mega_store_go_to_section\" href=\"#accordion-section-"
+"static_front_page\"> Switch To \"A Static Page\"</a>"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Mega Store Info Page"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "See Theme Info Page"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "VIEW PRO VERSION "
+msgstr ""
+
+#: inc/menu-walker.php:112
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/themefarmer-functions.php:85
+msgid "My Account"
+msgstr ""
+
+#: inc/themefarmer-functions.php:86
+msgid "Login"
+msgstr ""
+
+#: inc/themefarmer-functions.php:87
+msgid "Register"
+msgstr ""
+
+#: inc/themefarmer-functions.php:88
+msgid "Cart"
+msgstr ""
+
+#: inc/themefarmer-functions.php:89
+msgid "Checkout"
+msgstr ""
+
+#: inc/themefarmer-functions.php:90
+msgid "Wishlist"
+msgstr ""
+
+#: inc/themefarmer-functions.php:91
+msgid "Logout"
+msgstr ""
+
+#: inc/themefarmer-functions.php:109
+msgid "NAME"
+msgstr ""
+
+#: inc/themefarmer-functions.php:109
+msgid "Full Name"
+msgstr ""
+
+#: inc/themefarmer-functions.php:110
+msgid "EMAIL"
+msgstr ""
+
+#: inc/themefarmer-functions.php:110
+msgid "Your Email Address"
+msgstr ""
+
+#: inc/themefarmer-functions.php:111
+msgid "WEBSITE"
+msgstr ""
+
+#: inc/themefarmer-functions.php:111
+msgid "Website"
+msgstr ""
+
+#: inc/themefarmer-functions.php:118
+msgid "COMMENT"
+msgstr ""
+
+#: inc/themefarmer-functions.php:119
+#, php-format
+msgid "Post Your Reply Here To %s"
+msgstr ""
+
+#: inc/themefarmer-functions.php:121
+msgid "SUBMIT COMMENT"
+msgstr ""
+
+#: inc/themefarmer-functions.php:122
+msgid "Post Your Comment Here"
+msgstr ""
+
+#: inc/themefarmer-functions.php:133
+msgid "Reply"
+msgstr ""
+
+#: inc/themefarmer-functions.php:145
+msgid "at"
+msgstr ""
+
+#: inc/themefarmer-functions.php:149
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#: template-parts/content-home.php:21 template-parts/content-index.php:21
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:19
+#: template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
